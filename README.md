@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/aghNoNp8orVn6CHBq9/giphy.gif" width="520" alt="Jujutsu Kaisen Banner"/>
+<img src="https://tenor.com/bUrrq.gif" width="600" alt="Jujutsu Kaisen Banner"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Klouse&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=60&stroke=7c3aed&strokeWidth=2&color=0:0f172a,45:312e81,100:7c3aed"/>
 
