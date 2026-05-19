@@ -1,7 +1,8 @@
+&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=klousex.klousex&left_text=Profile%20Views&left_color=0f172a&right_color=7c3aed"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Klouse&fontAlign=50&fontSize=55&fontColor=ffffff&animation=twinkling&color=0:0f172a,50:312e81,100:7c3aed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Klouse&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=60&stroke=7c3aed&strokeWidth=2&color=0:0f172a,45:312e81,100:7c3aed"/>
 
 <!-- Old Banner / GIF
 <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">
@@ -12,7 +13,7 @@
 </a>
 -->
 
-<h3>AI Engineering • Software Development</h3>
+<h3>AI Engineering • Full-Stack / MERN • Software Development</h3>
 
 <p>
   <a href="https://twitch.tv/klousex">
@@ -31,78 +32,219 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%" />
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<h2>About 私自身</h2>
 
-## About Me
+<img align="right" src="assets/gojo.png" width="32%" alt="Gojo Satoru"/>
 
-```txt
-Profile: Klouse
+<pre><code>Profile Version: 2.0
+--------------------
+Username: Klouse
 Path: AI Engineering
-Base: Software Development
+Base: Full-Stack / MERN / Software Development
+
+Location: Baku, Azerbaijan
 
 Core:
-- Python
-- Machine Learning
-- Deep Learning
-- LLMs
-- Data Processing
-- AI Tools
+  - Python
+  - Machine Learning
+  - Deep Learning
+  - LLMs
+  - Data Processing
+  - AI Tools
 
-Foundation:
-- TypeScript / JavaScript
-- React
-- Node.js / Express
-- SQL / PostgreSQL
-- Java
-```
+Full-Stack:
+  - MongoDB
+  - Express.js
+  - React
+  - Node.js
+  - TypeScript / JavaScript
+  - Vite
+  - SQL / PostgreSQL
+  - SQLite
 
-</td>
-    <td width="38%" align="center" valign="top"><img src="assets/marin.png" width="260" alt="Marin Kitagawa" /></td>
-  </tr>
-</table><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />Stack
+Languages:
+  - Python
+  - TypeScript
+  - JavaScript
+  - Java
+  - C++
+  - Rust
+  - Kotlin
+  - Swift
+  - C#
+
+Interests:
+  - AI Engineering
+  - Automation
+  - Full-Stack Development
+  - MERN Stack
+  - Practical Tools
+  - Backend Fundamentals
+  - Web Interfaces
+  - Open Source
+
+Build_Mode:
+  - Think
+  - Build
+  - Break
+  - Fix
+  - Improve
+
+Rule:
+  Build projects, learn what blocks progress,
+  avoid random technologies.
+</code></pre>
+
+<br clear="both">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%" />
+
+<h3 align="left">🛠 Stack</h3>
+
+<div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
       <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,ts,js,java&perline=2" />
+      <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,rust,kotlin,swift,cs&perline=3" />
     </td>
     <td align="center" width="25%">
       <h3>AI / ML</h3>
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=2" />
       <br />
-      <sub>ML · DL · LLMs</sub>
+      <sub>ML · DL · LLMs · AI Tools</sub>
     </td>
     <td align="center" width="25%">
-      <h3>Web</h3>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=2" />
+      <h3>Full-Stack / MERN</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=2" />
+      <br />
+      <sub>MongoDB · Express · React · Node</sub>
     </td>
     <td align="center" width="25%">
-      <h3>Database</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=2" />
+      <h3>Web / DB</h3>
+      <img src="https://skillicons.dev/icons?i=vite,postgres,sqlite&perline=2" />
+      <br />
+      <sub>Vite · PostgreSQL · SQLite</sub>
     </td>
   </tr>
-</table><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" /><table>
+</table>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%" />
+
+<h3 align="left">🤖 AI / Engineering</h3>
+
+<img align="left" src="assets/sukuna.png" width="28%" alt="Sukuna"/>
+
+<pre><code>AI Engineering:
+  Python
+  Machine Learning
+  Deep Learning
+  LLM-based tools
+  Data Processing
+  Model Evaluation
+  Automation
+
+Software Foundation:
+  Full-stack apps
+  MERN stack
+  Web interfaces
+  Dashboards
+  REST APIs
+  Databases
+  Tools
+  Practical systems
+
+AI Tools:
+  ChatGPT
+  Codex
+  Gemini
+  OpenAI API
+</code></pre>
+
+<br clear="both">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%" />
+
+<h3 align="left">⚙️ Tools / Ecosystem</h3>
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-2D3748?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-1F2937?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboards-312e81?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%" />
+
+<h3 align="left">🚧 In Progress</h3>
+
+<div align="center">
+
+<table>
   <tr>
-    <td width="38%" align="center" valign="top"><img src="assets/gojo.png" width="260" alt="Gojo Satoru" /></td>
-    <td width="62%" valign="top">Build Mode
-
-Think
-Build
-Break
-Fix
-Improve
-
-I build tools, automation, dashboards, experiments, and AI-related projects.
-
-The goal is simple: make useful systems, understand how they work, and improve them over time.
-
-</td>
+    <td align="center" width="33%">
+      <b>Helix AI</b>
+      <br />
+      <sub>Local assistant / AI system</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>AI Engineering Base</b>
+      <br />
+      <sub>Python · ML · DL · LLMs</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Full-Stack Foundation</b>
+      <br />
+      <sub>MERN · SQL · Java · Tools</sub>
+    </td>
   </tr>
-</table><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" /><details>
-  <summary><b>GitHub Stats</b></summary><br /><div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" /></div><div align="center"><img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" /></div></details><div align="center"><img src="assets/jinwoo.png" width="220" alt="Sung Jin-Woo" /><img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7c3aed,50:312e81,100:0f172a" /></div>
-```
+</table>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%" />
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+
+<br />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
+
+</div>
+
+</details>
+
+<div align="center">
+
+<img src="assets/jinwoo.png" width="220" alt="Sung Jin-Woo"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=twinkling&color=0:7c3aed,45:312e81,100:0f172a"/>
+
+</div>
