@@ -4,106 +4,46 @@
   <img
     src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762"
     alt="Klouse"
+    width="100%"
   />
 </a>
 
 # Klouse
 
-### AI Engineering • Software Development
+**AI Engineering Learner · Software Developer · Creator**
 
 <p>
   <a href="https://twitch.tv/klousex">
-    <img src="https://img.shields.io/badge/Twitch-klousex-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" />
   </a>
-
   <a href="https://youtube.com/@klousex">
-    <img src="https://img.shields.io/badge/YouTube-@klousex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
-
   <a href="https://tiktok.com/@klousexx">
-    <img src="https://img.shields.io/badge/TikTok-@klousexx-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" />
   </a>
-
   <a href="https://discord.com/users/1425100026022985788">
-    <img src="https://img.shields.io/badge/Discord-klousex-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
-
-<!--
-  <a href="mailto:business.klousex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-klousex-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
--->
 </p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-<table>
-  <tr>
-    <td width="50%">
+I’m building a foundation in **AI Engineering** while using software development, automation, and practical tools to solve real problems.
 
-### Direction
+My current focus includes **Python**, **Machine Learning**, **LLMs**, backend fundamentals, databases, and simple web interfaces for real projects.
 
-I’m focused on AI Engineering, software development, automation, and practical tools.
-
-My current direction is Python, Machine Learning, LLMs, backend fundamentals, databases, and simple web interfaces for real projects.
-
-</td>
-    <td width="50%">
-
-### Mindset
-
-I like turning messy ideas into working tools.
-
-I build, test, break, fix, refactor, and try to understand how systems work under the hood.
-
-</td>
-  </tr>
-</table>
+I like turning messy ideas into working tools: build, test, break, fix, refactor, and understand how systems work under the hood.
 
 ---
 
-## Stack
+## Focus
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,ts,js,java&perline=2" />
-    </td>
-    <td align="center" width="25%">
-      <h3>AI / ML</h3>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=2" />
-      <br />
-    </td>
-    <td align="center" width="25%">
-      <h3>Web</h3>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=2" />
-    </td>
-    <td align="center" width="25%">
-      <h3>Database</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=2" />
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
-
-</div>
+```txt
+AI Engineering  →  Python · ML · LLMs · Data · AI Tools
+Software        →  Backend · Web · Automation · Databases
+Creator Path    →  YouTube · Twitch · English · Minecraft Projects
