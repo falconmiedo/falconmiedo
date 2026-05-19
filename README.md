@@ -61,28 +61,21 @@ I build, test, break, fix, refactor, and try to understand how systems work unde
 
 <div align="center">
 
-### Languages
+**MERN / Full-Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;Express.js&nbsp;&nbsp;|&nbsp;&nbsp;React&nbsp;&nbsp;|&nbsp;&nbsp;Node.js
 
 <br /><br />
 
-### Full-Stack / MERN
+**Languages**
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;Python&nbsp;&nbsp;|&nbsp;&nbsp;Java
 
 <br /><br />
 
-### Databases
+**Frontend / Backend / Databases**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+Vite&nbsp;&nbsp;|&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;|&nbsp;&nbsp;SQLite&nbsp;&nbsp;|&nbsp;&nbsp;REST APIs&nbsp;&nbsp;|&nbsp;&nbsp;Automation
 
 </div>
 
