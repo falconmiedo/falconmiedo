@@ -61,21 +61,27 @@ I build, test, break, fix, refactor, and try to understand how systems work unde
 
 <div align="center">
 
-**MERN / Full-Stack**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</p>
 
-MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;Express.js&nbsp;&nbsp;|&nbsp;&nbsp;React&nbsp;&nbsp;|&nbsp;&nbsp;Node.js
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+</p>
 
-<br /><br />
-
-**Languages**
-
-JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;TypeScript&nbsp;&nbsp;|&nbsp;&nbsp;Python&nbsp;&nbsp;|&nbsp;&nbsp;Java
-
-<br /><br />
-
-**Frontend / Backend / Databases**
-
-Vite&nbsp;&nbsp;|&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;|&nbsp;&nbsp;SQLite&nbsp;&nbsp;|&nbsp;&nbsp;REST APIs&nbsp;&nbsp;|&nbsp;&nbsp;Automation
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-2D3748?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-1F2937?style=flat&logo=githubactions&logoColor=white" />
+</p>
 
 </div>
 
