@@ -4,18 +4,7 @@
 
 <img src="images/banner.gif" width="620" alt="Anime Banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=ffffff&fontSize=58&descAlign=59&stroke=7c3aed&textBg=false&strokeWidth=2&color=0:020617,45:312e81,75:7c3aed,100:ef4444"/>
-
-</div>
-
-<div>
-  <h3 align="center">"Klouse が"</h3>
-  <h3 align="center">AI Engineering と Software Development の世界へようこそ。</h3>
-</div>
-
-<div align="center">
-
-<h1>Klouse</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=Klouse&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=ffffff&fontSize=58&descAlign=59&stroke=7c3aed&textBg=false&strokeWidth=2&color=0:020617,45:312e81,75:7c3aed,100:ef4444"/>
 
 <h3>AI Engineering • Full Stack • Software Developer</h3>
 
@@ -95,7 +84,6 @@ Interests:
   - LLM-based tools
   - Data Processing
   - Model Evaluation
-  - Automation
 
 AI / ML Stack:
   - PyTorch
