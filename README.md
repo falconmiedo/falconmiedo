@@ -1,15 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Klouse&fontAlign=50&fontSize=55&fontColor=ffffff&animation=twinkling&color=0:0f172a,50:312e81,100:7c3aed" />
+
+<!-- Old Banner / GIF
 <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">
   <img
     src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762"
     alt="Klouse"
   />
 </a>
+-->
 
-# Klouse
-
-### AI Engineering Direction • Full-Stack / MERN Foundation
+<h3>AI Engineering • Software Development</h3>
 
 <p>
   <a href="https://twitch.tv/klousex">
@@ -28,77 +30,30 @@
 
 </div>
 
----
-
-## About Me
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="62%" valign="top">
 
-### Direction
+## About Me
 
-I’m building toward AI Engineering with a full-stack software foundation.
+```txt
+Profile: Klouse
+Path: AI Engineering
+Base: Software Development
 
-My current focus is practical projects, backend fundamentals, databases, automation, and simple web interfaces.
+Core:
+- Python
+- Machine Learning
+- Deep Learning
+- LLMs
+- Data Processing
+- AI Tools
 
-</td>
-    <td width="50%">
-
-### Mindset
-
-I like turning messy ideas into working tools.
-
-I build, test, break, fix, refactor, and try to understand how systems work under the hood.
-
-</td>
-  </tr>
-</table>
-
----
-
-## Stack
-
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-2D3748?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-1F2937?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
-
-</div>
+Foundation:
+- TypeScript / JavaScript
+- React
+- Node.js / Express
+- SQL / PostgreSQL
+- Java
