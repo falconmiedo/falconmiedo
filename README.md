@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="images/banner.jpg" width="620" alt="Anime Banner"/>
+<!-- <img src="images/banner.gif" width="620" alt="Anime Banner"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=Klouse&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=ffffff&fontSize=58&descAlign=59&stroke=7c3aed&textBg=false&strokeWidth=2&color=0:020617,45:312e81,75:7c3aed,100:ef4444"/>
 
