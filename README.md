@@ -94,10 +94,10 @@ AI / ML Stack:
   - Jupyter
 
 AI Tools:
-  - ChatGPT
-  - Codex
+  - Claude
+  - Claude Code
   - Gemini
-  - OpenAI API
+  - Antigravity
 </code></pre>
 
 <br clear="both">
