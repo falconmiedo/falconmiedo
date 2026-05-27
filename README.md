@@ -126,39 +126,6 @@ AI Tools:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<h3>🎧 Favorite Music</h3>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://www.youtube.com/results?search_query=ANGAN+TENGA+WHO+TAKES+YOUR+HEART">
-        <img src="https://img.shields.io/badge/ANGAN_TENGA-WHO_TAKES_YOUR_HEART-7c3aed?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.youtube.com/results?search_query=onokami+ангелочек+alternative+version">
-        <img src="https://img.shields.io/badge/onokami-ангелочек_alt-ef4444?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.youtube.com/results?search_query=Gwen+Stefani+Bubble+Pop+Electric">
-        <img src="https://img.shields.io/badge/Gwen_Stefani-Bubble_Pop_Electric-f472b6?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.youtube.com/results?search_query=Clarion+Hello+Juliet">
-        <img src="https://img.shields.io/badge/Clarion-Hello_Juliet-2563eb?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
 <h3>🚧 Work in Progress</h3>
 
 <div align="center">
@@ -166,7 +133,7 @@ AI Tools:
 <table>
   <tr>
     <td align="center" width="33%">
-      <b>Helix AI</b>
+      <b>Falcon AI</b>
       <br>
       <sub>Local assistant / AI system</sub>
     </td>
@@ -196,15 +163,15 @@ AI Tools:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FalconMiedo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalconMiedo&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=FalconMiedo&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -223,17 +190,17 @@ AI Tools:
 </p>
 
 <p>
-  <a href="https://twitch.tv/klousex">
-    <img src="https://img.shields.io/badge/Twitch-klousex-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <a href="https://twitch.tv/FalconMiedo">
+    <img src="https://img.shields.io/badge/Twitch-Falcon-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@klousex">
-    <img src="https://img.shields.io/badge/YouTube-@klousex-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://youtube.com/@FalconMiedo">
+    <img src="https://img.shields.io/badge/YouTube-@Falcon-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@klousexx">
-    <img src="https://img.shields.io/badge/TikTok-@klousexx-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <a href="https://tiktok.com/@Falcon.fear">
+    <img src="https://img.shields.io/badge/TikTok-@Falcon-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1425100026022985788">
-    <img src="https://img.shields.io/badge/Discord-klousex-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Falcon-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
