@@ -1,4 +1,4 @@
-&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=klousex.klousex&left_text=Profile%20Views&left_color=black&right_color=7c3aed"/>
+&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=klousex.Falcon&left_text=Profile%20Views&left_color=black&right_color=7c3aed"/>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 <pre><code>Profile Version: 1.0
 --------------------
-Username: Klouse
+Username: Falcon
 WhoamI: AI Engineering / Full Stack / Software Developer
 
 Location: Baku, Azerbaijan
